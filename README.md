@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrakashMahatra
-- 👀 I’m interested in exploring data science .
-- 🌱 I’m currently learning machine learning and python libraries
-- 💞️ I’m looking to collaborate on data science projects 
+- 👀 I’m ML and Data Enthusiast.
+- 🌱 I’m currently applying knowledge of NLP,LLMS,Data Analysis into Real world projects.
+- 💞️ I’m looking to collaborate on data science projects .
 - 📫 prakash.mahatra18@gmail.com
 
 <!---
